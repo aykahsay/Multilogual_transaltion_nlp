@@ -1,0 +1,12 @@
+pandas
+beautifulsoup4
+requests
+scikit-learn
+tqdm
+deep-translator
+torch
+transformers
+datasets
+streamlit
+evaluate
+sacrebleu
