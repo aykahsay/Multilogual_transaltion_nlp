@@ -1,0 +1,18 @@
+# Virtual environments
+.env
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Hugging Face models & logs
+models/
+runs/
+*.ckpt
+*.safetensors
+*.bin
+
+# Streamlit
+.streamlit/
