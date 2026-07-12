@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import torch
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer, DataCollatorForSeq2Seq
+from transformers import MarianTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer, DataCollatorForSeq2Seq
 from datasets import Dataset
 
 def load_data(file_path):
@@ -29,7 +29,7 @@ def main():
     output_dir = "models/psa-en-sw-finetuned"
     
     print(f"Loading tokenizer and model: {model_checkpoint}")
-    tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+    tokenizer = MarianTokenizer.from_pretrained(model_checkpoint)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
     
     # Load dataset splits

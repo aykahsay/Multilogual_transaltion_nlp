@@ -1,7 +1,7 @@
 import pandas as pd
 import torch
 import evaluate
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from transformers import MarianTokenizer, AutoModelForSeq2SeqLM
 import argparse
 
 def main():
@@ -11,7 +11,7 @@ def main():
     args = parser.parse_args()
     
     print(f"Loading model from {args.model_path}...")
-    tokenizer = AutoTokenizer.from_pretrained(args.model_path)
+    tokenizer = MarianTokenizer.from_pretrained(args.model_path)
     model = AutoModelForSeq2SeqLM.from_pretrained(args.model_path)
     
     device = "cuda" if torch.cuda.is_available() else "cpu"

@@ -10,3 +10,5 @@ datasets
 streamlit
 evaluate
 sacrebleu
+sentencepiece
+sacremoses
