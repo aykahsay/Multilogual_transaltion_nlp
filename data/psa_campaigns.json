@@ -2,2902 +2,1802 @@
   "campaigns": [
     {
       "campaign_id": "PSA-KE-2026-0001",
-      "ad_id": "GOV-PSA-185-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Kakamega County residents urged to sign up for affordable housing",
         "content_kiswahili": "Wakazi wa Kaunti ya Kakamega wahimizwa kujisajili kwa nyumba za bei nafuu"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-07T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1024001,
-        "gross_rating_points_grp": 103.6,
-        "donated_value_metrics_usd": 30391
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 5649
+        "lifetime_post_total_impressions": 5797,
+        "lifetime_post_total_reach": 3332,
+        "total_interactions": 105,
+        "comment_count": 0,
+        "like_count": 87,
+        "share_count": 18
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0002",
-      "ad_id": "DIS-PSA-122-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Embu (Mbeere) County: Drought Early Warning Bulletin for December 2023",
         "content_kiswahili": "Kaunti ya Embu (Mbeere): Taarifa ya Onyo la Mapema kuhusu Ukame Desemba 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 814882,
-        "gross_rating_points_grp": 77.1,
-        "donated_value_metrics_usd": 18109
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1231
+        "lifetime_post_total_impressions": 46054,
+        "lifetime_post_total_reach": 11444,
+        "total_interactions": 233,
+        "comment_count": 14,
+        "like_count": 172,
+        "share_count": 47
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0003",
-      "ad_id": "DIS-PSA-825-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Drought in the Horn of Africa: the arduous path to assistance for unregistered refugees in Dadaab Refugee camps, Kenya",
         "content_kiswahili": "Ukame katika Pembe ya Afrika: njia ngumu ya usaidizi kwa wakimbizi ambao hawajasajiliwa katika kambi za Wakimbizi za Dadaab, Kenya."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-16T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 1006966,
-        "gross_rating_points_grp": 98.4,
-        "donated_value_metrics_usd": 87367
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 276
+        "lifetime_post_total_impressions": 11736,
+        "lifetime_post_total_reach": 6880,
+        "total_interactions": 75,
+        "comment_count": 0,
+        "like_count": 59,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0004",
-      "ad_id": "DIS-PSA-885-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Kenya - Demographic and Displacement Calculator in Wajir Round #4 (12 February 2025)",
         "content_kiswahili": "Kenya - Kikokotoo cha Idadi ya Watu na Uhamisho katika Wajir Awamu ya #4 (12 Februari 2025)"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-14T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1028182,
-        "gross_rating_points_grp": 101.6,
-        "donated_value_metrics_usd": 55157
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 2699
+        "lifetime_post_total_impressions": 2999,
+        "lifetime_post_total_reach": 1685,
+        "total_interactions": 70,
+        "comment_count": 0,
+        "like_count": 54,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0005",
-      "ad_id": "AGR-PSA-393-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "For example, smart farming includes precision farming, sensors and remote sensing. Figure 1. Distribution of digital use cases in IFAD projects (ICT4D stocktake ...",
         "content_kiswahili": "Kwa mfano, kilimo nadhifu kinajumuisha kilimo cha usahihi, vitambuzi na utambuzi wa mbali. Mchoro 1. Usambazaji wa matumizi ya kidijitali katika miradi ya IFAD (hesabu ya hisa za ICT4D ..."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-11T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 335815,
-        "gross_rating_points_grp": 36.3,
-        "donated_value_metrics_usd": 6594
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 33721
+        "lifetime_post_total_impressions": 5472,
+        "lifetime_post_total_reach": 2645,
+        "total_interactions": 72,
+        "comment_count": 4,
+        "like_count": 59,
+        "share_count": 9
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0006",
-      "ad_id": "AGR-PSA-452-15S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "The Program is specifically designed with profitability, mitigation, and adaption in mind to help farmers in New York and the Northeast: (1) sustainably ...",
         "content_kiswahili": "Programu hii imeundwa mahsusi kwa kuzingatia faida, kupunguza athari, na mabadiliko ili kuwasaidia wakulima huko New York na Kaskazini Mashariki: (1) endelevu ..."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-13T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 872549,
-        "gross_rating_points_grp": 84.6,
-        "donated_value_metrics_usd": 98229
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 23619
+        "lifetime_post_total_impressions": 7057,
+        "lifetime_post_total_reach": 4240,
+        "total_interactions": 138,
+        "comment_count": 3,
+        "like_count": 114,
+        "share_count": 21
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0007",
-      "ad_id": "SEC-PSA-909-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Children in areas like Northern Kenya face abduction and recruitment into armed groups. Security agencies must prioritize their safety.",
         "content_kiswahili": "Watoto katika maeneo kama Kaskazini mwa Kenya wanakabiliwa na utekaji nyara na kuajiriwa katika vikundi vyenye silaha. Mashirika ya usalama lazima yape kipaumbele usalama wao."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 924651,
-        "gross_rating_points_grp": 88.8,
-        "donated_value_metrics_usd": 46391
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 177
+        "lifetime_post_total_impressions": 12414,
+        "lifetime_post_total_reach": 7492,
+        "total_interactions": 295,
+        "comment_count": 8,
+        "like_count": 236,
+        "share_count": 51
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0008",
-      "ad_id": "DIS-PSA-259-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Stabilising the North Rift: Lessons learned from the peacebuilding experience of NCIC and Interpeace",
         "content_kiswahili": "Kuimarisha Ufa Kaskazini: Masomo tuliyojifunza kutoka kwa uzoefu wa kujenga amani wa NCIC na Interpeace."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-29T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 67126,
-        "gross_rating_points_grp": 6.1,
-        "donated_value_metrics_usd": 49406
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 6770
+        "lifetime_post_total_impressions": 1285,
+        "lifetime_post_total_reach": 677,
+        "total_interactions": 7,
+        "comment_count": 0,
+        "like_count": 7,
+        "share_count": 0
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0009",
-      "ad_id": "GOV-PSA-815-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Murang a Woman Rep Betty Maina urges residents to be tolerant of local leaders who have taken different political positions, emphasizing that it is their right to do so.",
         "content_kiswahili": "Mwakilishi wa Wanawake wa Murang Betty Maina anawasihi wakazi kuwa wavumilivu kwa viongozi wa eneo hilo ambao wamechukua misimamo tofauti ya kisiasa, akisisitiza kwamba ni haki yao kufanya hivyo."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-23T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 939135,
-        "gross_rating_points_grp": 95.8,
-        "donated_value_metrics_usd": 99558
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 22705
+        "lifetime_post_total_impressions": 3891,
+        "lifetime_post_total_reach": 2168,
+        "total_interactions": 70,
+        "comment_count": 0,
+        "like_count": 53,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0010",
-      "ad_id": "DIS-PSA-847-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Turkana County: Drought Early Warning Bulletin for July 2023",
         "content_kiswahili": "Kaunti ya Turkana: Taarifa ya Onyo la Mapema kuhusu Ukame Julai 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-31T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 176244,
-        "gross_rating_points_grp": 20.3,
-        "donated_value_metrics_usd": 74440
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 27286
+        "lifetime_post_total_impressions": 33000,
+        "lifetime_post_total_reach": 20528,
+        "total_interactions": 172,
+        "comment_count": 3,
+        "like_count": 148,
+        "share_count": 21
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0011",
-      "ad_id": "EDU-PSA-321-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "All TVET students get Ksh 8,000 monthly stipend from January ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ confirm admission first!",
         "content_kiswahili": "Wanafunzi wote wa TVET wanapata posho ya kila mwezi ya Ksh 8,000 kuanzia Januari thibitisha kwanza kujiunga!"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-04T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 912017,
-        "gross_rating_points_grp": 89.5,
-        "donated_value_metrics_usd": 22893
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1692
+        "lifetime_post_total_impressions": 8668,
+        "lifetime_post_total_reach": 4694,
+        "total_interactions": 142,
+        "comment_count": 3,
+        "like_count": 113,
+        "share_count": 26
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0012",
-      "ad_id": "DIS-PSA-814-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Embu (Mbeere) County: Drought Early Warning Bulletin for July 2024",
         "content_kiswahili": "Kaunti ya Embu (Mbeere): Taarifa ya Onyo la Mapema kuhusu Ukame Julai 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-06T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 307102,
-        "gross_rating_points_grp": 27.2,
-        "donated_value_metrics_usd": 24932
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 248
+        "lifetime_post_total_impressions": 76659,
+        "lifetime_post_total_reach": 34512,
+        "total_interactions": 490,
+        "comment_count": 6,
+        "like_count": 442,
+        "share_count": 42
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0013",
-      "ad_id": "DIS-PSA-667-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Lamu County: Drought Early Warning Bulletin for June 2024",
         "content_kiswahili": "Kaunti ya Lamu: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Juni 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-06T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 1458010,
-        "gross_rating_points_grp": 140.9,
-        "donated_value_metrics_usd": 62801
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 27311
+        "lifetime_post_total_impressions": 7716,
+        "lifetime_post_total_reach": 4770,
+        "total_interactions": 124,
+        "comment_count": 2,
+        "like_count": 97,
+        "share_count": 25
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0014",
-      "ad_id": "GOV-PSA-232-60S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "By 1 month ago Police appeal for leads in Narok woman's assault Police urge public to share information to aid in arresting suspects filmed assaulting a woman in Narok, condemn act as barbaric, and vow justice.",
         "content_kiswahili": "Kufikia mwezi mmoja uliopita Polisi waomba viongozi katika shambulio la mwanamke Narok Polisi wawahimiza umma kushiriki taarifa ili kusaidia kuwakamata washukiwa waliorekodiwa wakimshambulia mwanamke huko Narok, kulaani kitendo hicho kama cha kinyama, na kuapa haki."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-18T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 267821,
-        "gross_rating_points_grp": 22.2,
-        "donated_value_metrics_usd": 63870
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 17229
+        "lifetime_post_total_impressions": 13092,
+        "lifetime_post_total_reach": 6692,
+        "total_interactions": 117,
+        "comment_count": 2,
+        "like_count": 99,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0015",
-      "ad_id": "GOV-PSA-959-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Therefore, this move is part of a citywide cleaning exercise which has, so far, included orders requiring hawkers to vacate some of the CBD streets and business owners in the CBD to keep their premises clean and avoid loud systems disrupting the public, among others.",
         "content_kiswahili": "Kwa hivyo, hatua hii ni sehemu ya zoezi la usafi wa jiji lote ambalo, hadi sasa, limejumuisha maagizo yanayowataka wachuuzi kuondoka katika baadhi ya mitaa ya CBD na wamiliki wa biashara katika CBD ili kuweka majengo yao safi na kuepuka mifumo ya kelele kuwasumbua umma, miongoni mwa mengine."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-12T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1227095,
-        "gross_rating_points_grp": 126.5,
-        "donated_value_metrics_usd": 39139
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 7004
+        "lifetime_post_total_impressions": 34774,
+        "lifetime_post_total_reach": 17912,
+        "total_interactions": 587,
+        "comment_count": 17,
+        "like_count": 447,
+        "share_count": 123
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0016",
-      "ad_id": "DIS-PSA-273-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Kenya | Joint Market Monitoring Initiative (JMMI) Dadaab and Kakuma Refugee Camp, Q4 2025 (October - December)",
         "content_kiswahili": "Kenya | Mpango wa Pamoja wa Ufuatiliaji wa Soko (JMMI) Dadaab na Kambi ya Wakimbizi ya Kakuma, Q4 2025 (Oktoba - Desemba)"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-25T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 440406,
-        "gross_rating_points_grp": 40.1,
-        "donated_value_metrics_usd": 21322
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 26488
+        "lifetime_post_total_impressions": 12695,
+        "lifetime_post_total_reach": 9880,
+        "total_interactions": 40,
+        "comment_count": 0,
+        "like_count": 35,
+        "share_count": 5
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0017",
-      "ad_id": "DIS-PSA-227-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Entry-Points for Peace-Positive Investments in Northern Kenya’s Frontier Markets: An exploratory study of prospective peace-aligned investments in Elgeyo Marakwet, Mandera and Marsabit counties (July 2024)",
         "content_kiswahili": "Mambo ya Kuingia kwa Uwekezaji Wenye Amani-Chanya katika Masoko ya Mipaka ya Kaskazini mwa Kenya: Utafiti wa uchunguzi wa uwekezaji unaotarajiwa kutegemea amani katika kaunti za Elgeyo Marakwet, Mandera na Marsabit (Julai 2024)"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-26T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1283276,
-        "gross_rating_points_grp": 130.0,
-        "donated_value_metrics_usd": 23199
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 3457
+        "lifetime_post_total_impressions": 7536,
+        "lifetime_post_total_reach": 4684,
+        "total_interactions": 84,
+        "comment_count": 5,
+        "like_count": 53,
+        "share_count": 26
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0018",
-      "ad_id": "SEC-PSA-784-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Residential facilities for persons with disabilities require strong safeguards and accessible education on rights and reporting.",
         "content_kiswahili": "Vifaa vya makazi kwa watu wenye ulemavu vinahitaji ulinzi mkali na elimu inayopatikana kwa urahisi kuhusu haki na utoaji wa taarifa."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-22T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 947738,
-        "gross_rating_points_grp": 96.8,
-        "donated_value_metrics_usd": 31134
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 26606
+        "lifetime_post_total_impressions": 9390,
+        "lifetime_post_total_reach": 4940,
+        "total_interactions": 162,
+        "comment_count": 33,
+        "like_count": 107,
+        "share_count": 22
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0019",
-      "ad_id": "DIS-PSA-326-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "IsraAID completes NuWASH program in Kenya",
         "content_kiswahili": "IsraAID inakamilisha mpango wa NuWASH nchini Kenya"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-01T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 410109,
-        "gross_rating_points_grp": 36.3,
-        "donated_value_metrics_usd": 53303
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 44311
+        "lifetime_post_total_impressions": 5113,
+        "lifetime_post_total_reach": 3234,
+        "total_interactions": 75,
+        "comment_count": 0,
+        "like_count": 58,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0020",
-      "ad_id": "HEA-PSA-613-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Teenage mothers are at higher risk of complications. Encourage young girls to stay in school and delay pregnancy.",
         "content_kiswahili": "Akina mama vijana wako katika hatari kubwa ya kupata matatizo. Wahimize wasichana wadogo kuendelea na shule na kuchelewesha ujauzito."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-31T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 305066,
-        "gross_rating_points_grp": 34.0,
-        "donated_value_metrics_usd": 83847
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 4002
+        "lifetime_post_total_impressions": 42092,
+        "lifetime_post_total_reach": 34192,
+        "total_interactions": 44,
+        "comment_count": 1,
+        "like_count": 36,
+        "share_count": 7
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0021",
-      "ad_id": "DIS-PSA-251-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Kenya: IFRC launches CHF 15 million emergency appeal as climate extremes push millions to the brink",
         "content_kiswahili": "Kenya: IFRC yazindua rufaa ya dharura ya CHF milioni 15 huku hali mbaya ya hewa ikisukuma mamilioni ukingoni"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-07T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1168341,
-        "gross_rating_points_grp": 113.1,
-        "donated_value_metrics_usd": 52315
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 8994
+        "lifetime_post_total_impressions": 8703,
+        "lifetime_post_total_reach": 5280,
+        "total_interactions": 110,
+        "comment_count": 1,
+        "like_count": 79,
+        "share_count": 30
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0022",
-      "ad_id": "DIS-PSA-680-30S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Narok County: Drought Early Warning Bulletin for June 2024",
         "content_kiswahili": "Kaunti ya Narok: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Juni 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-11T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1026564,
-        "gross_rating_points_grp": 105.8,
-        "donated_value_metrics_usd": 49278
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1860
+        "lifetime_post_total_impressions": 10228,
+        "lifetime_post_total_reach": 6184,
+        "total_interactions": 152,
+        "comment_count": 1,
+        "like_count": 105,
+        "share_count": 46
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0023",
-      "ad_id": "DIS-PSA-687-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Tharaka Nithi County: Drought Early Warning Bulletin for January 2023",
         "content_kiswahili": "Kaunti ya Tharaka Nithi: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Januari 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 884941,
-        "gross_rating_points_grp": 84.2,
-        "donated_value_metrics_usd": 25710
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 227
+        "lifetime_post_total_impressions": 4908,
+        "lifetime_post_total_reach": 3212,
+        "total_interactions": 49,
+        "comment_count": 1,
+        "like_count": 40,
+        "share_count": 8
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0024",
-      "ad_id": "EDU-PSA-333-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "All registered candidates must appear in the attendance register.",
         "content_kiswahili": "Watahiniwa wote waliosajiliwa lazima waonekane kwenye rejista ya mahudhurio."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-28T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1345511,
-        "gross_rating_points_grp": 130.3,
-        "donated_value_metrics_usd": 91212
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3413
+        "lifetime_post_total_impressions": 7633,
+        "lifetime_post_total_reach": 4202,
+        "total_interactions": 167,
+        "comment_count": 3,
+        "like_count": 148,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0025",
-      "ad_id": "GOV-PSA-650-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Political Watch: Kakamega senator warns residents against   UDA party imposters",
         "content_kiswahili": "Uangalizi wa Kisiasa: Seneta wa Kakamega awaonya wakazi dhidi ya matapeli wa chama cha UDA"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 207095,
-        "gross_rating_points_grp": 16.4,
-        "donated_value_metrics_usd": 45906
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 904
+        "lifetime_post_total_impressions": 2392,
+        "lifetime_post_total_reach": 1228,
+        "total_interactions": 0,
+        "comment_count": 0,
+        "like_count": 0,
+        "share_count": 0
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0026",
-      "ad_id": "AGR-PSA-501-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Urban gardening allows city dwellers to grow food. Explore techniques like container gardening and vertical growing for avocados.",
         "content_kiswahili": "Ulimaji wa bustani mijini huwawezesha wakazi wa mijini kulima chakula. Chunguza mbinu kama vile ulimaji wa kwenye vyombo na ulimaji wima wa parachichi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-17T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 433113,
-        "gross_rating_points_grp": 41.4,
-        "donated_value_metrics_usd": 78351
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 47579
+        "lifetime_post_total_impressions": 10115,
+        "lifetime_post_total_reach": 5880,
+        "total_interactions": 95,
+        "comment_count": 5,
+        "like_count": 79,
+        "share_count": 11
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0027",
-      "ad_id": "DIS-PSA-171-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Enabling Resilient, Equitable and Sustainable Food Systems: A synthesis of the Cultivate Africa's Future (CultiAF) partnership, 2013-2023",
         "content_kiswahili": "Kuwezesha Mifumo ya Chakula Inayostahimili, Sawa na Endelevu: Mchanganyiko wa ushirikiano wa Kulima Afrika ya Baadaye (CultiAF), 2013-2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-30T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1365234,
-        "gross_rating_points_grp": 135.8,
-        "donated_value_metrics_usd": 91748
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1925
+        "lifetime_post_total_impressions": 7216,
+        "lifetime_post_total_reach": 3778,
+        "total_interactions": 115,
+        "comment_count": 4,
+        "like_count": 93,
+        "share_count": 18
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0028",
-      "ad_id": "HEA-PSA-576-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "Garissa governor sounds alarm on cancer surge, links it to alleged nuclear waste dumping",
         "content_kiswahili": "Gavana wa Garissa atoa tahadhari kuhusu ongezeko la saratani, akihusisha na madai ya utupaji taka za nyuklia"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 550124,
-        "gross_rating_points_grp": 58.2,
-        "donated_value_metrics_usd": 36898
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 145
+        "lifetime_post_total_impressions": 12978,
+        "lifetime_post_total_reach": 7980,
+        "total_interactions": 287,
+        "comment_count": 2,
+        "like_count": 264,
+        "share_count": 21
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0029",
-      "ad_id": "SEC-PSA-368-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Support education and awareness campaigns protecting children, women, refugees, and vulnerable groups",
         "content_kiswahili": "Saidia kampeni za elimu na uhamasishaji kuwalinda watoto, wanawake, wakimbizi, na makundi yaliyo hatarini"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 875962,
-        "gross_rating_points_grp": 86.8,
-        "donated_value_metrics_usd": 74647
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4148
+        "lifetime_post_total_impressions": 104952,
+        "lifetime_post_total_reach": 68896,
+        "total_interactions": 1626,
+        "comment_count": 26,
+        "like_count": 1505,
+        "share_count": 95
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0030",
-      "ad_id": "SEC-PSA-796-30S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Domestic violence harms children. Report incidents to local authorities or child helplines.",
         "content_kiswahili": "Vurugu za nyumbani huwadhuru watoto. Ripoti matukio kwa mamlaka za mitaa au simu za usaidizi kwa watoto."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-20T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1455847,
-        "gross_rating_points_grp": 150.3,
-        "donated_value_metrics_usd": 87923
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 8888
+        "lifetime_post_total_impressions": 17099,
+        "lifetime_post_total_reach": 10152,
+        "total_interactions": 67,
+        "comment_count": 2,
+        "like_count": 55,
+        "share_count": 10
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0031",
-      "ad_id": "EDU-PSA-644-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Rift Valley Technical Training Institute leads in competency-based TVET.",
         "content_kiswahili": "Taasisi ya Mafunzo ya Ufundi ya Bonde la Ufa inaongoza katika TVET inayotegemea uwezo."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-22T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 199653,
-        "gross_rating_points_grp": 23.9,
-        "donated_value_metrics_usd": 7187
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 1779
+        "lifetime_post_total_impressions": 9238,
+        "lifetime_post_total_reach": 5754,
+        "total_interactions": 84,
+        "comment_count": 0,
+        "like_count": 65,
+        "share_count": 19
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0032",
-      "ad_id": "DIS-PSA-232-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "Mandera County: Drought Early Warning Bulletin for June 2024",
         "content_kiswahili": "Kaunti ya Mandera: Taarifa ya Onyo la Mapema kuhusu Ukame ya Juni 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-27T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1090929,
-        "gross_rating_points_grp": 106.3,
-        "donated_value_metrics_usd": 58878
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 745
+        "lifetime_post_total_impressions": 4642,
+        "lifetime_post_total_reach": 2772,
+        "total_interactions": 83,
+        "comment_count": 2,
+        "like_count": 72,
+        "share_count": 9
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0033",
-      "ad_id": "DIS-PSA-371-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Kenya Food Security Outlook February - September 2026: Slow recovery from historic poor short rains to sustain Crisis (IPC Phase 3) in pastoral areas",
         "content_kiswahili": "Mtazamo wa Usalama wa Chakula Kenya Februari - Septemba 2026: Ahueni ya polepole kutokana na mvua mbaya za kihistoria ili kuendeleza Mgogoro (IPC Awamu ya 3) katika maeneo ya wafugaji."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 422647,
-        "gross_rating_points_grp": 45.5,
-        "donated_value_metrics_usd": 54304
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 7479
+        "lifetime_post_total_impressions": 7355,
+        "lifetime_post_total_reach": 4118,
+        "total_interactions": 36,
+        "comment_count": 1,
+        "like_count": 28,
+        "share_count": 7
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0034",
-      "ad_id": "DIS-PSA-928-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Embu (Mbeere) County: Drought Early Warning Bulletin for January 2023",
         "content_kiswahili": "Kaunti ya Embu (Mbeere): Taarifa ya Onyo la Mapema kuhusu Ukame la Januari 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-24T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 715069,
-        "gross_rating_points_grp": 68.5,
-        "donated_value_metrics_usd": 6278
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3162
+        "lifetime_post_total_impressions": 7829,
+        "lifetime_post_total_reach": 4484,
+        "total_interactions": 225,
+        "comment_count": 6,
+        "like_count": 179,
+        "share_count": 40
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0035",
-      "ad_id": "SEC-PSA-541-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Expanded training in Kiambu brought together county officials, youth, media, and civil society to strengthen local prevention networks.",
         "content_kiswahili": "Mafunzo yaliyopanuliwa huko Kiambu yaliwaleta pamoja maafisa wa kaunti, vijana, vyombo vya habari, na asasi za kiraia ili kuimarisha mitandao ya kuzuia maambukizi ya virusi vya corona."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-19T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 942226,
-        "gross_rating_points_grp": 94.5,
-        "donated_value_metrics_usd": 32081
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 6221
+        "lifetime_post_total_impressions": 4373,
+        "lifetime_post_total_reach": 2413,
+        "total_interactions": 80,
+        "comment_count": 0,
+        "like_count": 66,
+        "share_count": 14
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0036",
-      "ad_id": "SEC-PSA-874-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Poor handling causes stress and injury. Use non-slip floors and proper restraint equipment.",
         "content_kiswahili": "Ushughulikiaji mbaya husababisha msongo wa mawazo na majeraha. Tumia sakafu zisizoteleza na vifaa sahihi vya kuzuia."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-18T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 477374,
-        "gross_rating_points_grp": 51.8,
-        "donated_value_metrics_usd": 71156
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 281
+        "lifetime_post_total_impressions": 5630,
+        "lifetime_post_total_reach": 3024,
+        "total_interactions": 84,
+        "comment_count": 0,
+        "like_count": 64,
+        "share_count": 20
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0037",
-      "ad_id": "EDU-PSA-570-15S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Support schools! Provide resources in drought areas.",
         "content_kiswahili": "Saidia shule! Toa rasilimali katika maeneo ya ukame."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 342650,
-        "gross_rating_points_grp": 34.6,
-        "donated_value_metrics_usd": 57263
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 39413
+        "lifetime_post_total_impressions": 8769,
+        "lifetime_post_total_reach": 5302,
+        "total_interactions": 168,
+        "comment_count": 4,
+        "like_count": 138,
+        "share_count": 26
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0038",
-      "ad_id": "GOV-PSA-454-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Security Matters Turning to security matters, the PS revealed that the government is set to launch a mobile app enabling citizens to report road-related incidents directly online.",
         "content_kiswahili": "Masuala ya Usalama Akizungumzia masuala ya usalama, Katibu Mkuu huyo alifichua kwamba serikali iko tayari kuzindua programu ya simu inayowawezesha raia kuripoti matukio yanayohusiana na barabara moja kwa moja mtandaoni."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-13T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1342704,
-        "gross_rating_points_grp": 132.4,
-        "donated_value_metrics_usd": 77288
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 4856
+        "lifetime_post_total_impressions": 103050,
+        "lifetime_post_total_reach": 39344,
+        "total_interactions": 162,
+        "comment_count": 7,
+        "like_count": 146,
+        "share_count": 9
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0039",
-      "ad_id": "DIS-PSA-413-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "The Kenya Cash Consortium Alert-Based Cash Assistance to Disaster-Affected Communities in the Kenyan ASALs: Endline (August 2024)",
         "content_kiswahili": "Msaada wa Tahadhari ya Kenya Cash Consortium kwa Jamii Zilizoathiriwa na Maafa katika ASAL za Kenya: Endline (Agosti 2024)"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 263987,
-        "gross_rating_points_grp": 22.5,
-        "donated_value_metrics_usd": 78904
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 188
+        "lifetime_post_total_impressions": 3772,
+        "lifetime_post_total_reach": 2232,
+        "total_interactions": 98,
+        "comment_count": 2,
+        "like_count": 74,
+        "share_count": 22
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0040",
-      "ad_id": "HEA-PSA-977-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Public invitation and details for October 2025 national conference themed “Securing the Future” on holistic mental health.",
         "content_kiswahili": "Mwaliko wa umma na maelezo ya mkutano wa kitaifa wa Oktoba 2025 wenye mada \"Kulinda Mustakabali\" kuhusu afya ya akili kamili."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-18T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 1135452,
-        "gross_rating_points_grp": 117.0,
-        "donated_value_metrics_usd": 8032
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4382
+        "lifetime_post_total_impressions": 81908,
+        "lifetime_post_total_reach": 27216,
+        "total_interactions": 245,
+        "comment_count": 4,
+        "like_count": 219,
+        "share_count": 22
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0041",
-      "ad_id": "SEC-PSA-561-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Training delivered to Anti Terrorism Police Unit officers to strengthen ideological awareness and operational skills under the national CVE framework.",
         "content_kiswahili": "Mafunzo yametolewa kwa maafisa wa Kitengo cha Polisi cha Kupambana na Ugaidi ili kuimarisha ufahamu wa kiitikadi na ujuzi wa uendeshaji chini ya mfumo wa kitaifa wa CVE."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 230832,
-        "gross_rating_points_grp": 18.9,
-        "donated_value_metrics_usd": 14657
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 46697
+        "lifetime_post_total_impressions": 10701,
+        "lifetime_post_total_reach": 6668,
+        "total_interactions": 69,
+        "comment_count": 3,
+        "like_count": 53,
+        "share_count": 13
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0042",
-      "ad_id": "GOV-PSA-580-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "The Ushahidi platform builds more trust in the system because it enables citizens to report on any incidents of corruption in real-time, helping keep an eye on the vote.",
         "content_kiswahili": "Jukwaa la Ushahidi hujenga imani zaidi katika mfumo kwa sababu huwawezesha raia kuripoti kuhusu matukio yoyote ya ufisadi kwa wakati halisi, na kusaidia kufuatilia kura."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-20T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 349767,
-        "gross_rating_points_grp": 30.6,
-        "donated_value_metrics_usd": 75537
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1352
+        "lifetime_post_total_impressions": 4239,
+        "lifetime_post_total_reach": 2225,
+        "total_interactions": 129,
+        "comment_count": 2,
+        "like_count": 111,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0043",
-      "ad_id": "AGR-PSA-280-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "The application of digital technologies and other innovations to the agriculture sector can also help increase agricultural productivity. Both ...",
         "content_kiswahili": "Matumizi ya teknolojia za kidijitali na uvumbuzi mwingine katika sekta ya kilimo pia yanaweza kusaidia kuongeza tija ya kilimo. Zote mbili ..."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-31T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 84063,
-        "gross_rating_points_grp": 7.5,
-        "donated_value_metrics_usd": 90869
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 146
+        "lifetime_post_total_impressions": 8371,
+        "lifetime_post_total_reach": 5168,
+        "total_interactions": 14,
+        "comment_count": 0,
+        "like_count": 12,
+        "share_count": 2
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0044",
-      "ad_id": "SEC-PSA-837-60S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Expose child labor in plantations; encourage reporting.",
         "content_kiswahili": "Kufichua ajira kwa watoto katika mashamba; kuhimiza kuripoti."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-07T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 158777,
-        "gross_rating_points_grp": 20.6,
-        "donated_value_metrics_usd": 99431
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3961
+        "lifetime_post_total_impressions": 4005,
+        "lifetime_post_total_reach": 2232,
+        "total_interactions": 72,
+        "comment_count": 0,
+        "like_count": 62,
+        "share_count": 10
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0045",
-      "ad_id": "DIS-PSA-155-15S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Narok County: Drought Early Warning Bulletin for September 2022",
         "content_kiswahili": "Kaunti ya Narok: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Septemba 2022"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-20T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 854005,
-        "gross_rating_points_grp": 83.5,
-        "donated_value_metrics_usd": 43741
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3456
+        "lifetime_post_total_impressions": 5318,
+        "lifetime_post_total_reach": 3002,
+        "total_interactions": 125,
+        "comment_count": 4,
+        "like_count": 98,
+        "share_count": 23
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0046",
-      "ad_id": "HEA-PSA-113-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Healthy minds create healthy workplaces. Lets foster environments that prioritize mental health and support employees well-being",
         "content_kiswahili": "Akili zenye afya huunda sehemu za kazi zenye afya. Tukuze mazingira yanayopa kipaumbele afya ya akili na kusaidia ustawi wa wafanyakazi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 216554,
-        "gross_rating_points_grp": 26.5,
-        "donated_value_metrics_usd": 58500
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 956
+        "lifetime_post_total_impressions": 59040,
+        "lifetime_post_total_reach": 22984,
+        "total_interactions": 97,
+        "comment_count": 4,
+        "like_count": 85,
+        "share_count": 8
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0047",
-      "ad_id": "DIS-PSA-954-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Kilifi County: Drought Early Warning Bulletin for February 2024",
         "content_kiswahili": "Kaunti ya Kilifi: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Februari 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-24T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 883423,
-        "gross_rating_points_grp": 89.4,
-        "donated_value_metrics_usd": 56309
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 3289
+        "lifetime_post_total_impressions": 5091,
+        "lifetime_post_total_reach": 2752,
+        "total_interactions": 100,
+        "comment_count": 4,
+        "like_count": 79,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0048",
-      "ad_id": "GOV-PSA-412-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "ARTICLE 19 urges the Independent International Fact-Finding Mission on Sudan and the International Criminal Court to specifically consider how the information war in Sudan exacerbates harm to civilians, obstructs vital documentation of gross human rights and humanitarian law violations, and contributes to the commission of crimes.",
         "content_kiswahili": "KIFUNGU CHA 19 kinahimiza Ujumbe Huru wa Kimataifa wa Kutafuta Ukweli kuhusu Sudan na Mahakama ya Kimataifa ya Jinai kuzingatia mahususi jinsi vita vya habari nchini Sudan vinavyozidisha madhara kwa raia, kuzuia uandishi muhimu wa haki za binadamu na ukiukwaji mkubwa wa sheria za kibinadamu, na kuchangia katika utendaji wa uhalifu."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-25T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1476876,
-        "gross_rating_points_grp": 147.5,
-        "donated_value_metrics_usd": 95432
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1743
+        "lifetime_post_total_impressions": 5590,
+        "lifetime_post_total_reach": 3112,
+        "total_interactions": 106,
+        "comment_count": 0,
+        "like_count": 88,
+        "share_count": 18
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0049",
-      "ad_id": "DIS-PSA-324-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Kenya: Funds to help with teacher shortage at refugee camp",
         "content_kiswahili": "Kenya: Fedha za kusaidia uhaba wa walimu katika kambi ya wakimbizi"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 795455,
-        "gross_rating_points_grp": 78.5,
-        "donated_value_metrics_usd": 38963
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4917
+        "lifetime_post_total_impressions": 1110282,
+        "lifetime_post_total_reach": 49632,
+        "total_interactions": 249,
+        "comment_count": 7,
+        "like_count": 227,
+        "share_count": 15
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0050",
-      "ad_id": "EDU-PSA-915-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "KICD urges schools to embrace e-learning platforms to ensure continuity of learning during unforeseen emergencies.",
         "content_kiswahili": "KICD inahimiza shule kukumbatia mifumo ya kujifunza mtandaoni ili kuhakikisha mwendelezo wa kujifunza wakati wa dharura zisizotarajiwa."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-09T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 350682,
-        "gross_rating_points_grp": 37.7,
-        "donated_value_metrics_usd": 6708
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 697
+        "lifetime_post_total_impressions": 6853,
+        "lifetime_post_total_reach": 3454,
+        "total_interactions": 18,
+        "comment_count": 0,
+        "like_count": 16,
+        "share_count": 2
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0051",
-      "ad_id": "SEC-PSA-747-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Kenya and the United Kingdom opened a new Anti Terrorism Police Unit facility in Mombasa to strengthen operations.",
         "content_kiswahili": "Kenya na Uingereza zilifungua kituo kipya cha Kikosi cha Polisi cha Kupambana na Ugaidi huko Mombasa ili kuimarisha shughuli."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-27T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 817607,
-        "gross_rating_points_grp": 78.9,
-        "donated_value_metrics_usd": 80867
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 5812
+        "lifetime_post_total_impressions": 16362,
+        "lifetime_post_total_reach": 9056,
+        "total_interactions": 273,
+        "comment_count": 3,
+        "like_count": 226,
+        "share_count": 44
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0052",
-      "ad_id": "SEC-PSA-148-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Security agencies receive updated protocols for data and intelligence sharing.",
         "content_kiswahili": "Mashirika ya usalama hupokea itifaki zilizosasishwa za kushiriki data na ujasusi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-16T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 712225,
-        "gross_rating_points_grp": 71.7,
-        "donated_value_metrics_usd": 54325
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 42658
+        "lifetime_post_total_impressions": 7989,
+        "lifetime_post_total_reach": 4260,
+        "total_interactions": 271,
+        "comment_count": 1,
+        "like_count": 226,
+        "share_count": 44
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0053",
-      "ad_id": "GOV-PSA-755-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Report via email report@integrity.go.ke or call 1551 in case you have specific corruption cases which need action.",
         "content_kiswahili": "Ripoti kupitia barua pepe report@integrity.go.ke au piga simu 1551 ikiwa una kesi maalum za ufisadi zinazohitaji hatua."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-14T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 1052918,
-        "gross_rating_points_grp": 108.6,
-        "donated_value_metrics_usd": 45330
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 11
+        "lifetime_post_total_impressions": 8239,
+        "lifetime_post_total_reach": 3906,
+        "total_interactions": 10,
+        "comment_count": 0,
+        "like_count": 7,
+        "share_count": 3
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0054",
-      "ad_id": "DIS-PSA-997-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "Kenya: “Justice like any other person” - Hate crimes and discrimination against LGBTI refugees",
         "content_kiswahili": "Kenya: \"Haki kama mtu mwingine yeyote\" - Uhalifu wa chuki na ubaguzi dhidi ya wakimbizi wa LGBTI"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-09T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 209606,
-        "gross_rating_points_grp": 25.2,
-        "donated_value_metrics_usd": 16988
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 43664
+        "lifetime_post_total_impressions": 9301,
+        "lifetime_post_total_reach": 5560,
+        "total_interactions": 173,
+        "comment_count": 7,
+        "like_count": 142,
+        "share_count": 24
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0055",
-      "ad_id": "SEC-PSA-109-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "New rules require officers to declare gifts and avoid conflicts of interest.",
         "content_kiswahili": "Sheria mpya zinawataka maafisa kutangaza zawadi na kuepuka migongano ya maslahi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-14T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 365040,
-        "gross_rating_points_grp": 39.8,
-        "donated_value_metrics_usd": 43514
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 2746
+        "lifetime_post_total_impressions": 6330,
+        "lifetime_post_total_reach": 3934,
+        "total_interactions": 133,
+        "comment_count": 3,
+        "like_count": 113,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0056",
-      "ad_id": "SEC-PSA-274-30S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "United Kingdom advisory urges continued vigilance due to unpredictable threats in public places, hotels, and religious sites.",
         "content_kiswahili": "Ushauri wa Uingereza unahimiza kuendelea kuwa macho kutokana na vitisho visivyotabirika katika maeneo ya umma, hoteli, na maeneo ya kidini."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-29T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1275885,
-        "gross_rating_points_grp": 126.7,
-        "donated_value_metrics_usd": 78072
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 905
+        "lifetime_post_total_impressions": 31950,
+        "lifetime_post_total_reach": 16416,
+        "total_interactions": 81,
+        "comment_count": 2,
+        "like_count": 65,
+        "share_count": 14
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0057",
-      "ad_id": "EDU-PSA-733-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Bursary application portal now open for needy students in all 47 counties.",
         "content_kiswahili": "Lango la maombi ya ufadhili wa masomo sasa limefunguliwa kwa wanafunzi wenye uhitaji katika kaunti zote 47."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-18T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 1337230,
-        "gross_rating_points_grp": 129.6,
-        "donated_value_metrics_usd": 88793
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 1141
+        "lifetime_post_total_impressions": 20691,
+        "lifetime_post_total_reach": 10744,
+        "total_interactions": 179,
+        "comment_count": 3,
+        "like_count": 148,
+        "share_count": 28
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0058",
-      "ad_id": "EDU-PSA-884-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Integrate all! Support refugee students in local schools.",
         "content_kiswahili": "Unganisha wote! Wasaidie wanafunzi wakimbizi katika shule za mitaa."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-18T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1074167,
-        "gross_rating_points_grp": 108.0,
-        "donated_value_metrics_usd": 53015
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 114
+        "lifetime_post_total_impressions": 7509,
+        "lifetime_post_total_reach": 3930,
+        "total_interactions": 75,
+        "comment_count": 4,
+        "like_count": 54,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0059",
-      "ad_id": "AGR-PSA-332-60S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Packaging protects your produce and adds value. Discover suitable packaging materials and methods for selling in local markets.",
         "content_kiswahili": "Ufungashaji hulinda mazao yako na huongeza thamani. Gundua vifaa na mbinu zinazofaa za ufungashaji kwa ajili ya kuuza katika masoko ya ndani."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-29T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 1276074,
-        "gross_rating_points_grp": 123.2,
-        "donated_value_metrics_usd": 8262
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 18
+        "lifetime_post_total_impressions": 5682,
+        "lifetime_post_total_reach": 3358,
+        "total_interactions": 132,
+        "comment_count": 2,
+        "like_count": 114,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0060",
-      "ad_id": "DIS-PSA-915-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "UK Parliamentarians conclude study tour to Kenya aimed at gaining insights into global sexual and reproductive health and rights",
         "content_kiswahili": "Wabunge wa Uingereza wahitimisha ziara ya mafunzo nchini Kenya yenye lengo la kupata maarifa kuhusu afya na haki za ngono na uzazi duniani."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-07T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 603745,
-        "gross_rating_points_grp": 60.0,
-        "donated_value_metrics_usd": 96694
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 4150
+        "lifetime_post_total_impressions": 2774,
+        "lifetime_post_total_reach": 1445,
+        "total_interactions": 64,
+        "comment_count": 0,
+        "like_count": 56,
+        "share_count": 8
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0061",
-      "ad_id": "DIS-PSA-370-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "MSF tackles three simultaneous disease outbreaks in Kenya",
         "content_kiswahili": "MSF inakabiliana na milipuko mitatu ya magonjwa kwa wakati mmoja nchini Kenya"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-11T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1424792,
-        "gross_rating_points_grp": 147.0,
-        "donated_value_metrics_usd": 10520
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 1120
+        "lifetime_post_total_impressions": 9218,
+        "lifetime_post_total_reach": 5400,
+        "total_interactions": 176,
+        "comment_count": 10,
+        "like_count": 125,
+        "share_count": 41
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0062",
-      "ad_id": "EDU-PSA-850-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Prevent substance abuse in schools 2025.",
         "content_kiswahili": "Kuzuia matumizi mabaya ya dawa za kulevya shuleni 2025."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-23T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 555336,
-        "gross_rating_points_grp": 54.7,
-        "donated_value_metrics_usd": 46679
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 10133
+        "lifetime_post_total_impressions": 5461,
+        "lifetime_post_total_reach": 3330,
+        "total_interactions": 79,
+        "comment_count": 2,
+        "like_count": 61,
+        "share_count": 16
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0063",
-      "ad_id": "GOV-PSA-104-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "He urged residents to continue registering under the scheme to access free healthcare services, and to enable the government plan better for better health provision.",
         "content_kiswahili": "Aliwasihi wakazi kuendelea kujiandikisha chini ya mpango huo ili kupata huduma za afya bila malipo, na kuwezesha mpango wa serikali kuwa bora zaidi kwa ajili ya utoaji bora wa afya."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-25T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 755085,
-        "gross_rating_points_grp": 72.6,
-        "donated_value_metrics_usd": 61292
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 4609
+        "lifetime_post_total_impressions": 104966,
+        "lifetime_post_total_reach": 56672,
+        "total_interactions": 1439,
+        "comment_count": 20,
+        "like_count": 1372,
+        "share_count": 47
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0064",
-      "ad_id": "DIS-PSA-851-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Kenya - Floods, update (UN OCHA, Kenya Meteorological Department) (ECHO Daily Flash of 20 June 2024)",
         "content_kiswahili": "Kenya - Mafuriko, sasisho (UN OCHA, Idara ya Hali ya Hewa ya Kenya) (ECHO Daily Flash ya 20 Juni 2024)"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-25T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 867325,
-        "gross_rating_points_grp": 85.6,
-        "donated_value_metrics_usd": 86257
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 25207
+        "lifetime_post_total_impressions": 8779,
+        "lifetime_post_total_reach": 5526,
+        "total_interactions": 97,
+        "comment_count": 2,
+        "like_count": 69,
+        "share_count": 26
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0065",
-      "ad_id": "EDU-PSA-604-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "KUCCPS opens direct university entry for TVET graduates ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ apply before Dec 31!",
         "content_kiswahili": "KUCCPS yafungua kiingilio cha moja kwa moja cha chuo kikuu kwa wahitimu wa TVET ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ kutuma maombi kabla ya Desemba 31!"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-13T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 684245,
-        "gross_rating_points_grp": 69.9,
-        "donated_value_metrics_usd": 86689
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 6973
+        "lifetime_post_total_impressions": 8533,
+        "lifetime_post_total_reach": 3754,
+        "total_interactions": 38,
+        "comment_count": 2,
+        "like_count": 29,
+        "share_count": 7
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0066",
-      "ad_id": "EDU-PSA-625-60S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "SMS and call support in 3 languages",
         "content_kiswahili": "Huduma ya usaidizi kwa SMS na simu kwa lugha 3"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-24T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1100989,
-        "gross_rating_points_grp": 110.1,
-        "donated_value_metrics_usd": 11159
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 5300
+        "lifetime_post_total_impressions": 6085,
+        "lifetime_post_total_reach": 3290,
+        "total_interactions": 59,
+        "comment_count": 1,
+        "like_count": 44,
+        "share_count": 14
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0067",
-      "ad_id": "DIS-PSA-103-15S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Kwale County: Drought Early Warning Bulletin for June 2023",
         "content_kiswahili": "Kaunti ya Kwale: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Juni 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1361852,
-        "gross_rating_points_grp": 131.7,
-        "donated_value_metrics_usd": 97460
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 279
+        "lifetime_post_total_impressions": 11459,
+        "lifetime_post_total_reach": 6416,
+        "total_interactions": 125,
+        "comment_count": 0,
+        "like_count": 96,
+        "share_count": 29
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0068",
-      "ad_id": "SEC-PSA-322-30S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Don't leave spare keys in obvious places like under doormats or flowerpots.",
         "content_kiswahili": "Usiache funguo za ziada katika sehemu zinazoonekana wazi kama vile chini ya mikeka ya mlango au vyungu vya maua."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 318683,
-        "gross_rating_points_grp": 34.6,
-        "donated_value_metrics_usd": 50090
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 6620
+        "lifetime_post_total_impressions": 30612,
+        "lifetime_post_total_reach": 16576,
+        "total_interactions": 214,
+        "comment_count": 4,
+        "like_count": 174,
+        "share_count": 36
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0069",
-      "ad_id": "SEC-PSA-639-60S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "Never use generators indoors - they produce deadly carbon monoxide.",
         "content_kiswahili": "Usitumie jenereta ndani ya nyumba - hutoa monoksidi kaboni hatari."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-24T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 775404,
-        "gross_rating_points_grp": 80.8,
-        "donated_value_metrics_usd": 94245
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 5773
+        "lifetime_post_total_impressions": 6166,
+        "lifetime_post_total_reach": 3384,
+        "total_interactions": 128,
+        "comment_count": 2,
+        "like_count": 101,
+        "share_count": 25
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0070",
-      "ad_id": "EDU-PSA-124-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Monitor nutrition programs 2024.",
         "content_kiswahili": "Fuatilia programu za lishe 2024."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 419120,
-        "gross_rating_points_grp": 45.2,
-        "donated_value_metrics_usd": 10286
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 30484
+        "lifetime_post_total_impressions": 55696,
+        "lifetime_post_total_reach": 32208,
+        "total_interactions": 881,
+        "comment_count": 6,
+        "like_count": 766,
+        "share_count": 109
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0071",
-      "ad_id": "SEC-PSA-752-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "A live radio program educated listeners on detainee rights, proper custody treatment, and legal recourse for abuse.",
         "content_kiswahili": "Kipindi cha redio cha moja kwa moja kilielimisha wasikilizaji kuhusu haki za wafungwa, utunzaji sahihi wa watoto, na njia ya kisheria ya kuchukua hatua dhidi ya unyanyasaji."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-17T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 104982,
-        "gross_rating_points_grp": 8.1,
-        "donated_value_metrics_usd": 68359
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 9880
+        "lifetime_post_total_impressions": 42313,
+        "lifetime_post_total_reach": 23832,
+        "total_interactions": 255,
+        "comment_count": 6,
+        "like_count": 210,
+        "share_count": 39
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0072",
-      "ad_id": "HEA-PSA-329-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Mombasa Covid-19 Booths: \nContactless testing booths to be distributed in 6 constituencies. Booths have zero contact between the medic and patient. Contactless booths allow for safer, faster mass testing. The locally assembled booths are a game changer",
         "content_kiswahili": "Vibanda vya Mombasa Covid-19:\n\nVibanda vya kupima bila kugusa vitasambazwa katika majimbo 6 ya uchaguzi. Vibanda havina mguso wowote kati ya daktari na mgonjwa. Vibanda visivyogusa vinaruhusu upimaji salama na wa haraka wa wingi. Vibanda vilivyokusanyika ndani ya eneo husika vinabadilisha mchezo."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-17T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1185389,
-        "gross_rating_points_grp": 122.3,
-        "donated_value_metrics_usd": 32952
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 187
+        "lifetime_post_total_impressions": 6181,
+        "lifetime_post_total_reach": 3528,
+        "total_interactions": 114,
+        "comment_count": 2,
+        "like_count": 95,
+        "share_count": 17
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0073",
-      "ad_id": "DIS-PSA-403-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "WHO and Novo Nordisk Foundation partner to advance health workforce education in Kenya",
         "content_kiswahili": "WHO na Novo Nordisk Foundation wanashirikiana kuendeleza elimu ya wafanyakazi wa afya nchini Kenya"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 723399,
-        "gross_rating_points_grp": 69.9,
-        "donated_value_metrics_usd": 31245
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1104
+        "lifetime_post_total_impressions": 277100,
+        "lifetime_post_total_reach": 139008,
+        "total_interactions": 271,
+        "comment_count": 23,
+        "like_count": 204,
+        "share_count": 44
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0074",
-      "ad_id": "DIS-PSA-544-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Kenya Economic Update (KEU) Edition No. 26: Continued Rebound, but Storms Cloud the Horizon - Policies to Accelerate the Productive Economy for Inclusive Growth",
         "content_kiswahili": "Toleo la 26 la Usasisho wa Uchumi wa Kenya (KEU): Inaendelea Kurudishwa, lakini Dhoruba Hufunika Upeo - Sera za Kuharakisha Uchumi Wenye Tija kwa Ukuaji Jumuishi"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-21T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 182356,
-        "gross_rating_points_grp": 14.7,
-        "donated_value_metrics_usd": 66338
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 126
+        "lifetime_post_total_impressions": 3289,
+        "lifetime_post_total_reach": 1729,
+        "total_interactions": 25,
+        "comment_count": 0,
+        "like_count": 23,
+        "share_count": 2
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0075",
-      "ad_id": "EDU-PSA-739-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Stay alert! Schools, monitor for abduction risks.",
         "content_kiswahili": "Kuwa macho! Shule, fuatilia hatari za utekaji nyara."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-17T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 978154,
-        "gross_rating_points_grp": 94.7,
-        "donated_value_metrics_usd": 74824
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 3520
+        "lifetime_post_total_impressions": 5553,
+        "lifetime_post_total_reach": 3322,
+        "total_interactions": 90,
+        "comment_count": 2,
+        "like_count": 74,
+        "share_count": 14
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0076",
-      "ad_id": "SEC-PSA-167-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Use technology and social media to participate in anti-corruption campaigns.",
         "content_kiswahili": "Tumia teknolojia na mitandao ya kijamii kushiriki katika kampeni za kupambana na ufisadi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-23T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 636003,
-        "gross_rating_points_grp": 68.6,
-        "donated_value_metrics_usd": 26484
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 8907
+        "lifetime_post_total_impressions": 80871,
+        "lifetime_post_total_reach": 58304,
+        "total_interactions": 155,
+        "comment_count": 0,
+        "like_count": 148,
+        "share_count": 7
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0077",
-      "ad_id": "DIS-PSA-117-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Tana River County: Drought Early Warning Bulletin for May 2024",
         "content_kiswahili": "Kaunti ya Tana River: Taarifa ya Onyo la Mapema kuhusu Ukame la Mei 2024"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-22T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 214455,
-        "gross_rating_points_grp": 23.5,
-        "donated_value_metrics_usd": 67382
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 7343
+        "lifetime_post_total_impressions": 11881,
+        "lifetime_post_total_reach": 6408,
+        "total_interactions": 195,
+        "comment_count": 26,
+        "like_count": 162,
+        "share_count": 7
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0078",
-      "ad_id": "SEC-PSA-524-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Teach endangered native languages in schools to preserve cultural heritage.",
         "content_kiswahili": "Fundisha lugha za asili zilizo hatarini kutoweka shuleni ili kuhifadhi urithi wa kitamaduni."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-29T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 765839,
-        "gross_rating_points_grp": 78.4,
-        "donated_value_metrics_usd": 54968
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4163
+        "lifetime_post_total_impressions": 5939,
+        "lifetime_post_total_reach": 3102,
+        "total_interactions": 119,
+        "comment_count": 7,
+        "like_count": 84,
+        "share_count": 28
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0079",
-      "ad_id": "DIS-PSA-216-15S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Marsabit County: Drought Early Warning Bulletin for April 2023",
         "content_kiswahili": "Kaunti ya Marsabit: Taarifa ya Onyo la Mapema kuhusu Ukame kwa Aprili 2023"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-23T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 755316,
-        "gross_rating_points_grp": 78.7,
-        "donated_value_metrics_usd": 19161
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 1958
+        "lifetime_post_total_impressions": 14157,
+        "lifetime_post_total_reach": 8500,
+        "total_interactions": 217,
+        "comment_count": 5,
+        "like_count": 159,
+        "share_count": 53
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0080",
-      "ad_id": "HEA-PSA-530-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Health CS Mutahi Kagwe says total lockdown on the table if coronavirus cases escalate, urges Kenyans to limit social interactions.",
         "content_kiswahili": "Waziri wa Afya Mutahi Kagwe anasema amri ya kutotoka nje ikiwa visa vya virusi vya corona vitaongezeka, anawahimiza Wakenya kupunguza mwingiliano wa kijamii."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-09T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 201495,
-        "gross_rating_points_grp": 23.6,
-        "donated_value_metrics_usd": 15737
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 42713
+        "lifetime_post_total_impressions": 10832,
+        "lifetime_post_total_reach": 6484,
+        "total_interactions": 170,
+        "comment_count": 4,
+        "like_count": 128,
+        "share_count": 38
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0081",
-      "ad_id": "SEC-PSA-395-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Multiple suspects arrested in Lamu during a counter‑terror operation; public urged to report tips.",
         "content_kiswahili": "Washukiwa kadhaa wakamatwa Lamu wakati wa operesheni ya kukabiliana na ugaidi; umma wahimizwa kuripoti taarifa za watu waliokamatwa."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-25T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 651975,
-        "gross_rating_points_grp": 66.1,
-        "donated_value_metrics_usd": 39803
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 13728
+        "lifetime_post_total_impressions": 10282,
+        "lifetime_post_total_reach": 5568,
+        "total_interactions": 387,
+        "comment_count": 13,
+        "like_count": 319,
+        "share_count": 55
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0082",
-      "ad_id": "EDU-PSA-414-60S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Free AI & robotics courses for 8,000 youth ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ register via TVETA portal TODAY!",
         "content_kiswahili": "Kozi za bure za AI na roboti kwa vijana 8,000 âƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ jiandikishe kupitia lango la TVETA LEO!"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 1030357,
-        "gross_rating_points_grp": 106.7,
-        "donated_value_metrics_usd": 73798
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 2461
+        "lifetime_post_total_impressions": 9193,
+        "lifetime_post_total_reach": 4582,
+        "total_interactions": 252,
+        "comment_count": 5,
+        "like_count": 190,
+        "share_count": 57
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0083",
-      "ad_id": "AGR-PSA-179-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "The second part of the paper surveys institutional and policy options available to promote the transition to climateâ€smart agriculture at the smallholder level.",
         "content_kiswahili": "Sehemu ya pili ya karatasi inachunguza chaguzi za kitaasisi na sera zinazopatikana ili kukuza mpito wa kilimo kinachozingatia mabadiliko ya tabianchi katika ngazi ya wakulima wadogo."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-24T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1435338,
-        "gross_rating_points_grp": 147.9,
-        "donated_value_metrics_usd": 40921
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 2879
+        "lifetime_post_total_impressions": 7927,
+        "lifetime_post_total_reach": 39600,
+        "total_interactions": 107,
+        "comment_count": 1,
+        "like_count": 101,
+        "share_count": 5
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0084",
-      "ad_id": "EDU-PSA-834-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Monitor exam integrity 2023.",
         "content_kiswahili": "Fuatilia uadilifu wa mtihani 2023."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-09T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 460422,
-        "gross_rating_points_grp": 42.1,
-        "donated_value_metrics_usd": 71371
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 39603
+        "lifetime_post_total_impressions": 41906,
+        "lifetime_post_total_reach": 21256,
+        "total_interactions": 228,
+        "comment_count": 38,
+        "like_count": 163,
+        "share_count": 27
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0085",
-      "ad_id": "SEC-PSA-549-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Machakos County community policing attributed to crime reduction in Mwala subâ€‘county",
         "content_kiswahili": "Polisi jamii wa Kaunti ya Machakos wahusishwa na kupungua kwa uhalifu katika kaunti ndogo ya Mwala"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-26T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 736390,
-        "gross_rating_points_grp": 70.7,
-        "donated_value_metrics_usd": 16558
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 45
+        "lifetime_post_total_impressions": 5659,
+        "lifetime_post_total_reach": 3418,
+        "total_interactions": 59,
+        "comment_count": 2,
+        "like_count": 51,
+        "share_count": 6
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0086",
-      "ad_id": "EDU-PSA-149-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Digital Display",
         "content_english": "Displays civic comics and ethics games",
         "content_kiswahili": "Inaonyesha michezo ya katuni za kiraia na maadili"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-09T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 85164,
-        "gross_rating_points_grp": 4.8,
-        "donated_value_metrics_usd": 22560
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4314
+        "lifetime_post_total_impressions": 37240,
+        "lifetime_post_total_reach": 24720,
+        "total_interactions": 421,
+        "comment_count": 13,
+        "like_count": 331,
+        "share_count": 77
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0087",
-      "ad_id": "EDU-PSA-259-30S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "TV/Video",
         "content_english": "Educate students! Teach protest safety in schools.",
         "content_kiswahili": "Elimisha wanafunzi! Fundisha usalama wa maandamano shuleni."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-07-11T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 456648,
-        "gross_rating_points_grp": 42.0,
-        "donated_value_metrics_usd": 46917
-      },
-      "impact_tracking": {
-        "primary_metric": "SMS Opt-ins",
-        "outcome_data": 5560
+        "lifetime_post_total_impressions": 17776,
+        "lifetime_post_total_reach": 9124,
+        "total_interactions": 199,
+        "comment_count": 20,
+        "like_count": 150,
+        "share_count": 29
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0088",
-      "ad_id": "AGR-PSA-187-30S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "In a liberalized economy, provision of services in the agricultural sector, including financing of inputs, collection of produce, and processing and marketing ...",
         "content_kiswahili": "Katika uchumi huria, utoaji wa huduma katika sekta ya kilimo, ikiwa ni pamoja na ufadhili wa pembejeo, ukusanyaji wa mazao, na usindikaji na uuzaji ..."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Daytime (10AM - 3PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 358195,
-        "gross_rating_points_grp": 35.0,
-        "donated_value_metrics_usd": 21236
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 2461
+        "lifetime_post_total_impressions": 9579,
+        "lifetime_post_total_reach": 6030,
+        "total_interactions": 208,
+        "comment_count": 3,
+        "like_count": 176,
+        "share_count": 29
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0089",
-      "ad_id": "HEA-PSA-595-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Health"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "Definitition of bipolar,causes,symptoms,diagnostic tools and treatment.",
         "content_kiswahili": "Ufafanuzi wa bipolar, sababu, dalili, vifaa vya uchunguzi na matibabu."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 482016,
-        "gross_rating_points_grp": 50.6,
-        "donated_value_metrics_usd": 95344
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1853
+        "lifetime_post_total_impressions": 4794,
+        "lifetime_post_total_reach": 3028,
+        "total_interactions": 73,
+        "comment_count": 2,
+        "like_count": 59,
+        "share_count": 12
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0090",
-      "ad_id": "EDU-PSA-884-30S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Radio/Audio",
         "content_english": "Promote entrepreneurship education 2024.",
         "content_kiswahili": "Kukuza elimu ya ujasiriamali 2024."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-08T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Overnight (11PM - 6AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 836825,
-        "gross_rating_points_grp": 79.0,
-        "donated_value_metrics_usd": 34731
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 46012
+        "lifetime_post_total_impressions": 11854,
+        "lifetime_post_total_reach": 5854,
+        "total_interactions": 218,
+        "comment_count": 11,
+        "like_count": 202,
+        "share_count": 5
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0091",
-      "ad_id": "EDU-PSA-491-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Implement protocols! Schools, address unrest safely.",
         "content_kiswahili": "Tekeleza itifaki! Shule, shughulikia machafuko kwa usalama."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-05-04T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 638924,
-        "gross_rating_points_grp": 63.2,
-        "donated_value_metrics_usd": 43059
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 41329
+        "lifetime_post_total_impressions": 9970,
+        "lifetime_post_total_reach": 5994,
+        "total_interactions": 280,
+        "comment_count": 11,
+        "like_count": 235,
+        "share_count": 34
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0092",
-      "ad_id": "AGR-PSA-734-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Agriculture"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Three ways IFAD can support digital agriculture in the Asia-Pacific region. Farmers and agribusinesses across the Asia-Pacific region are increasingly making ...",
         "content_kiswahili": "Njia tatu ambazo IFAD inaweza kusaidia kilimo cha kidijitali katika eneo la Asia-Pasifiki. Wakulima na biashara za kilimo katika eneo la Asia-Pasifiki wanazidi kupata ..."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-15T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 1378435,
-        "gross_rating_points_grp": 137.9,
-        "donated_value_metrics_usd": 41996
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 144
+        "lifetime_post_total_impressions": 8893,
+        "lifetime_post_total_reach": 5240,
+        "total_interactions": 61,
+        "comment_count": 0,
+        "like_count": 46,
+        "share_count": 15
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0093",
-      "ad_id": "SEC-PSA-216-30S",
       "source_attribution": {
-        "sponsor": "National Transport and Safety Authority (NTSA)",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "A bill proposes a 10‑year procurement ban for individuals and firms convicted of corruption.",
         "content_kiswahili": "Muswada unapendekeza marufuku ya miaka 10 ya ununuzi kwa watu binafsi na makampuni yaliyopatikana na hatia ya ufisadi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Mombasa & Coast (Urban/Coastal)",
-        "estimated_impressions": 1257779,
-        "gross_rating_points_grp": 125.3,
-        "donated_value_metrics_usd": 65075
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3171
+        "lifetime_post_total_impressions": 16811,
+        "lifetime_post_total_reach": 9232,
+        "total_interactions": 166,
+        "comment_count": 1,
+        "like_count": 129,
+        "share_count": 36
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0094",
-      "ad_id": "DIS-PSA-846-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "Republic of Korea rice donation provides critical boost to WFP's emergency response for refugees in Kenya | World Food Programme",
         "content_kiswahili": "Mchango wa mchele wa Jamhuri ya Korea unatoa msukumo muhimu kwa mwitikio wa dharura wa WFP kwa wakimbizi nchini Kenya | Mpango wa Chakula Duniani"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-06T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1049220,
-        "gross_rating_points_grp": 100.1,
-        "donated_value_metrics_usd": 85389
-      },
-      "impact_tracking": {
-        "primary_metric": "Website visits",
-        "outcome_data": 29367
+        "lifetime_post_total_impressions": 5499,
+        "lifetime_post_total_reach": 3294,
+        "total_interactions": 65,
+        "comment_count": 2,
+        "like_count": 57,
+        "share_count": 6
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0095",
-      "ad_id": "EDU-PSA-214-15S",
       "source_attribution": {
-        "sponsor": "Independent Electoral and Boundaries Commission (IEBC)",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Digital Display",
         "content_english": "IEBC voter registration in every school Nov 20ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“30 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ bring ID or birth cert!",
         "content_kiswahili": "Usajili wa wapiga kura wa IEBC katika kila shule Novemba 20, 2020, 3 ... Ofisi ya mkuu SASA!"
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-06-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 277968,
-        "gross_rating_points_grp": 24.9,
-        "donated_value_metrics_usd": 75077
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 1104
+        "lifetime_post_total_impressions": 7469,
+        "lifetime_post_total_reach": 4094,
+        "total_interactions": 4,
+        "comment_count": 0,
+        "like_count": 4,
+        "share_count": 0
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0096",
-      "ad_id": "DIS-PSA-685-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Disaster/Health"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "TV/Video",
         "content_english": "Strengthening the availability of evidence and fostering dialogue to stimulate investment in Kenya’s health workforce",
         "content_kiswahili": "Kuimarisha upatikanaji wa ushahidi na kukuza mazungumzo ili kuchochea uwekezaji katika wafanyikazi wa afya nchini Kenya."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-04-02T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1065760,
-        "gross_rating_points_grp": 102.2,
-        "donated_value_metrics_usd": 39839
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 3110
+        "lifetime_post_total_impressions": 5067,
+        "lifetime_post_total_reach": 3144,
+        "total_interactions": 72,
+        "comment_count": 1,
+        "like_count": 58,
+        "share_count": 13
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0097",
-      "ad_id": "EDU-PSA-649-15S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Education"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "Digital Display",
         "content_english": "Start your business! Join TVET entrepreneurship courses.",
         "content_kiswahili": "Anza biashara yako! Jiunge na kozi za ujasiriamali za TVET."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-28T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Morning Drive (6AM - 10AM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Kisumu & Lake Region (Urban/Rural)",
-        "estimated_impressions": 1362820,
-        "gross_rating_points_grp": 139.0,
-        "donated_value_metrics_usd": 66198
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 122
+        "lifetime_post_total_impressions": 54779,
+        "lifetime_post_total_reach": 21176,
+        "total_interactions": 163,
+        "comment_count": 2,
+        "like_count": 130,
+        "share_count": 31
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0098",
-      "ad_id": "GOV-PSA-443-60S",
       "source_attribution": {
-        "sponsor": "Kenya Red Cross",
         "category": "Governance"
       },
       "creative_versioning": {
-        "duration_seconds": 15,
-        "format": "Radio/Audio",
         "content_english": "Canada wishes IEBC success in #ECVR2021, urges citizens to register as their vote matters.",
         "content_kiswahili": "Kanada inaitakia IEBC mafanikio katika #ECVR2021, inawasihi raia kujiandikisha kwani kura zao ni muhimu."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-02-20T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Nairobi (Urban)",
-        "estimated_impressions": 163380,
-        "gross_rating_points_grp": 15.2,
-        "donated_value_metrics_usd": 95754
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 58
+        "lifetime_post_total_impressions": 68610,
+        "lifetime_post_total_reach": 37376,
+        "total_interactions": 505,
+        "comment_count": 20,
+        "like_count": 411,
+        "share_count": 74
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0099",
-      "ad_id": "SEC-PSA-652-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Health Kenya",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 60,
-        "format": "Radio/Audio",
         "content_english": "Install security film on glass doors to prevent easy break-ins.",
         "content_kiswahili": "Weka filamu ya usalama kwenye milango ya kioo ili kuzuia uvamizi rahisi."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-03-10T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Afternoon Drive (3PM - 7PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Northern Kenya (Rural/Arid)",
-        "estimated_impressions": 645134,
-        "gross_rating_points_grp": 65.7,
-        "donated_value_metrics_usd": 42205
-      },
-      "impact_tracking": {
-        "primary_metric": "Hotline call volumes",
-        "outcome_data": 4652
+        "lifetime_post_total_impressions": 10083,
+        "lifetime_post_total_reach": 5730,
+        "total_interactions": 49,
+        "comment_count": 2,
+        "like_count": 32,
+        "share_count": 15
       }
     },
     {
       "campaign_id": "PSA-KE-2026-0100",
-      "ad_id": "SEC-PSA-927-60S",
       "source_attribution": {
-        "sponsor": "Ministry of Education",
         "category": "Security"
       },
       "creative_versioning": {
-        "duration_seconds": 30,
-        "format": "TV/Video",
         "content_english": "A rights group compiled a verified injury registry with photos and medical data to support accountability and prosecution efforts.",
         "content_kiswahili": "Kundi la haki za binadamu liliandaa sajili ya majeraha iliyothibitishwa yenye picha na data ya kimatibabu ili kusaidia juhudi za uwajibikaji na mashtaka."
       },
-      "air_traffic_logs": {
-        "first_broadcast": "2026-01-15T09:00:00Z",
-        "timezone": "EAT",
-        "daypart_classification": "Prime Time (7PM - 11PM)"
-      },
       "performance_metrics": {
-        "geographic_distribution": "Rift Valley (Mixed)",
-        "estimated_impressions": 1354275,
-        "gross_rating_points_grp": 139.2,
-        "donated_value_metrics_usd": 40968
-      },
-      "impact_tracking": {
-        "primary_metric": "Reported incident decreases",
-        "outcome_data": 241
+        "lifetime_post_total_impressions": 19680,
+        "lifetime_post_total_reach": 10060,
+        "total_interactions": 108,
+        "comment_count": 4,
+        "like_count": 86,
+        "share_count": 18
       }
     }
   ]

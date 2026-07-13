@@ -56,52 +56,58 @@ def main():
             st.header("Broadcast Reach & Impact")
             
             # High-Level Metrics
-            total_impressions = df['performance_metrics.estimated_impressions'].sum()
-            avg_grp = df['performance_metrics.gross_rating_points_grp'].mean()
-            total_donated = df['performance_metrics.donated_value_metrics_usd'].sum()
+            total_impressions = df['performance_metrics.lifetime_post_total_impressions'].sum()
+            total_reach = df['performance_metrics.lifetime_post_total_reach'].sum()
+            total_interactions = df['performance_metrics.total_interactions'].sum()
             
             col1, col2, col3 = st.columns(3)
-            col1.metric("Total Estimated Impressions", f"{total_impressions:,.0f}")
-            col2.metric("Average Campaign GRP", f"{avg_grp:.1f}")
-            col3.metric("Total Donated Media Value", f"${total_donated:,.0f}")
+            col1.metric("Lifetime Post Total Impressions", f"{total_impressions:,.0f}")
+            col2.metric("Lifetime Post Total Reach", f"{total_reach:,.0f}")
+            col3.metric("Total Interactions", f"{total_interactions:,.0f}")
             
             st.divider()
             
-            # Geographic Distribution & Dayparts
+            # Interactions breakdown
             col4, col5 = st.columns(2)
             with col4:
-                st.subheader("Impressions by Geographic Region")
-                region_imp = df.groupby('performance_metrics.geographic_distribution')['performance_metrics.estimated_impressions'].sum().reset_index()
-                region_imp = region_imp.set_index('performance_metrics.geographic_distribution')
-                st.bar_chart(region_imp)
+                st.subheader("Impressions by Category")
+                cat_imp = df.groupby('source_attribution.category')['performance_metrics.lifetime_post_total_impressions'].sum().reset_index()
+                cat_imp = cat_imp.set_index('source_attribution.category')
+                st.bar_chart(cat_imp)
                 
             with col5:
-                st.subheader("Campaigns by Daypart")
-                daypart_counts = df['air_traffic_logs.daypart_classification'].value_counts()
-                st.bar_chart(daypart_counts)
+                st.subheader("Interactions Breakdown")
+                # Sum likes, comments, shares across all campaigns
+                int_breakdown = pd.DataFrame({
+                    "Interaction Type": ["Likes", "Comments", "Shares"],
+                    "Count": [
+                        df['performance_metrics.like_count'].sum(),
+                        df['performance_metrics.comment_count'].sum(),
+                        df['performance_metrics.share_count'].sum()
+                    ]
+                }).set_index("Interaction Type")
+                st.bar_chart(int_breakdown)
                 
             st.divider()
             
             # Detailed Campaign Tracking Log
-            st.subheader("Air Traffic & Performance Logs")
+            st.subheader("Real Digital Tracking Metrics")
             
             # Formatting the dataframe for display
             display_df = df[[
-                'ad_id', 
-                'source_attribution.sponsor', 
-                'air_traffic_logs.first_broadcast',
-                'performance_metrics.geographic_distribution',
-                'performance_metrics.gross_rating_points_grp',
-                'impact_tracking.primary_metric',
-                'impact_tracking.outcome_data'
+                'campaign_id', 
+                'source_attribution.category', 
+                'performance_metrics.lifetime_post_total_impressions',
+                'performance_metrics.lifetime_post_total_reach',
+                'performance_metrics.total_interactions'
             ]].copy()
             
-            display_df.columns = ["Ad-ID", "Sponsor", "Air Date", "DMA / Region", "GRPs", "Impact Metric", "Outcome Value"]
+            display_df.columns = ["Campaign ID", "Category", "Impressions", "Reach", "Total Interactions"]
             
             # Search / Filter
-            search_sponsor = st.selectbox("Filter by Sponsor:", ["All"] + list(display_df['Sponsor'].unique()))
-            if search_sponsor != "All":
-                display_df = display_df[display_df['Sponsor'] == search_sponsor]
+            search_category = st.selectbox("Filter by Category:", ["All"] + list(display_df['Category'].unique()))
+            if search_category != "All":
+                display_df = display_df[display_df['Category'] == search_category]
                 
             st.dataframe(display_df, use_container_width=True)
 
