@@ -12,16 +12,12 @@ def preprocess_function(examples, tokenizer, max_length=128):
     inputs = examples["English"]
     targets = examples["Kiswahili"]
     
-    model_inputs = tokenizer(inputs, max_length=max_length, padding="max_length", truncation=True)
+    model_inputs = tokenizer(inputs, text_target=targets, max_length=max_length, padding="max_length", truncation=True)
     
-    with tokenizer.as_target_tokenizer():
-        labels = tokenizer(targets, max_length=max_length, padding="max_length", truncation=True)
-        
     # Replace padding token id's of the labels by -100 so it's ignored by the loss
-    labels["input_ids"] = [
-        [(l if l != tokenizer.pad_token_id else -100) for l in label] for label in labels["input_ids"]
+    model_inputs["labels"] = [
+        [(l if l != tokenizer.pad_token_id else -100) for l in label] for label in model_inputs["labels"]
     ]
-    model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
 def main():
