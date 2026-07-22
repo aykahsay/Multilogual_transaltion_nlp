@@ -1,5 +1,6 @@
 # Virtual environments
 .env
+.venv/
 venv/
 env/
 
@@ -13,6 +14,12 @@ runs/
 *.ckpt
 *.safetensors
 *.bin
+*.pkl
+
+# PDF raw directories
+data/kenya_bulk_notices_2026/
+data/kenyan_public_notices/
+notice_data_kenya/
 
 # Streamlit
 .streamlit/
