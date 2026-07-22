@@ -19,26 +19,18 @@ def main():
             dfs.append(df_orig)
             print(f"  Added {len(df_orig)} rows from original base dataset.")
             
-    # 2. Add the 4 Scraped PSA Parts
-    part_files = [
-        os.path.join("data", "scraped_psas_part1.csv"),
-        os.path.join("data", "scraped_psas_part2.csv"),
-        os.path.join("data", "scraped_psas_part3.csv"),
-        os.path.join("data", "scraped_psas_part4.csv"),
-        os.path.join("data", "scraped_psas_translated.csv")
-    ]
-    
-    for pf in part_files:
-        if os.path.exists(pf):
-            print(f"Loading scraped PSA part from {pf}...")
-            df_part = pd.read_csv(pf)
-            if "Domain" not in df_part.columns:
-                df_part["Domain"] = "Disaster/Health"
-            valid_cols = [c for c in columns_to_keep if c in df_part.columns]
-            if "English" in valid_cols and "Kiswahili" in valid_cols:
-                df_part = df_part[valid_cols]
-                dfs.append(df_part)
-                print(f"  Added {len(df_part)} rows from {pf}.")
+    # 2. Add scraped translated dataset
+    translated_path = os.path.join("data", "scraped_psas_translated.csv")
+    if os.path.exists(translated_path):
+        print(f"Loading scraped translated PSAs from {translated_path}...")
+        df_trans = pd.read_csv(translated_path)
+        if "Domain" not in df_trans.columns:
+            df_trans["Domain"] = "Disaster/Health"
+        valid_cols = [c for c in columns_to_keep if c in df_trans.columns]
+        if "English" in valid_cols and "Kiswahili" in valid_cols:
+            df_trans = df_trans[valid_cols]
+            dfs.append(df_trans)
+            print(f"  Added {len(df_trans)} rows from {translated_path}.")
 
     # 3. Add verified scraped & extracted PDF datasets
     extra_sources = [
